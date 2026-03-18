@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Work Pt. II (feat. Gang Starr)",
+  "base_artist": "Big L",
+  "createdAt": "2026-03-18T00:50:50.265284Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Work, Pt. II (feat. Gang Starr)",
+      "artist": "Big L",
+      "has_synced": true,
+      "path": "select/01_Work,_Pt._II_(feat._Gang_Starr)_Big_L.lrc"
+    }
+  ]
+}
